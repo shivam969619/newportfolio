@@ -11,7 +11,7 @@ export const projectData = [
     title: "Defenzo",
     githubLink: "https://github.com/shivam969619/Defenzo-frontend",
     deployedLink: "https://defenzo-frontend.vercel.app/",
-    skill: ["NextJs", "Tailwind CSS", "NextAuth", "Mongoose", "Express", "Docker", "Videocipher"],
+    skill: ["NextJs", "Tailwind CSS", "NextAuth"],
     description: "This is a course-selling website where users can study and prepare for the NDA Exam. It incorporates a secure user authentication system with NextAuth, manages data using Mongoose and Express, and integrates video content protection through Videocipher. Docker is used for deployment."
   },
   {
